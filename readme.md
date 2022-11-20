@@ -4,11 +4,11 @@ For Non Termux, click [here](http://github.com/datbadwolf97/YTMSDLv3).<br/>
 # Wait...3rd version?
 
 mmmmnyess...<br/>
-Well, I got bored from Bash Script and decided to move into Python....<br\>
+Well, I got bored from Bash Script and decided to move into Python....<br/>
 
 # Features?
 
-Same as [YTMSDLv2](https://github.com/datbadwolf97/YTMSDLv2) but in Python *and colors!*<br\>
+Same as [YTMSDLv2](https://github.com/datbadwolf97/YTMSDLv2) but in Python *and colors!*<br/>
 Oh also since it was in Python, it'll directly calls the functions from `yt-dlp` python package instead of command line.<br\>
 Ah yes, I've cut down some useless format such as `flac`, ya know, Youtube Music already lossy so it's pointless to convert into lossless format like flac, why's there has `wav` on it?<br/>
 It'll be nicer to put `wav` files into your favorite Digital Audio Workstation, right?<br/>
