@@ -27,7 +27,7 @@ cd YTMSDLv3-termux
 ```
 Then run the file using :
 ```
-python3 ydp.py
+python3 ydp-trm.py
 ```
 # Question?
 
