@@ -11,7 +11,7 @@ while True:
     ydl_mp3 = {
         'outtmpl': '%(title)s.%(ext)s',
         'paths' : {
-            'home' : '~/Music',
+            'home' : '~/storage/shared/Music',
         },
         'format': 'm4a/bestaudio/best',
         'postprocessors': [{
@@ -23,7 +23,7 @@ while True:
     ydl_m4a = {
         'outtmpl': '%(title)s.%(ext)s',
         'paths' : {
-            'home' : '~/Music',
+            'home' : '~/storage/shared/Music',
         },
         'format': 'm4a/bestaudio/best',
     }
@@ -31,7 +31,7 @@ while True:
     ydl_wav = {
         'outtmpl' : '%(title)s.%(ext)s',
         'paths' : {
-            'home' : '~/Music',
+            'home' : '~/storage/shared/Music',
         },
         'format' : 'm4a/bestaudio/best',
         'postprocessors' : [{
