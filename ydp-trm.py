@@ -1,5 +1,5 @@
 ###################################
-## YTMSDL VERSION 3 - NON TERMUX ##
+## YTMSDL VERSION 3 - FOR TERMUX ##
 ## Now with Python and colors!   ##
 ## Creator : datbadwolf97        ##
 ###################################
